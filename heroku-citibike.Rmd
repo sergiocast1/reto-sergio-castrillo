@@ -2,4 +2,4 @@
 title: "Bike Heroku"
 ---
 
-[App Markdown Firebase](https://reto-heroku.herokuapp.com/)
+[App Heroku](https://reto-heroku.herokuapp.com/)
