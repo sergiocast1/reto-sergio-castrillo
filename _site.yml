@@ -1,8 +1,9 @@
-name: "my-website"
+name: "Reto Modulo6"
+output_dir: docs
 navbar:
-  title: "My Website"
+  title: "Reto Modulo6"
   left:
-    - text: "Reto"
+    - text: "Reto Introduccion"
       href: index.html
     - text: "Markdown-citibike"
       href: about.html
