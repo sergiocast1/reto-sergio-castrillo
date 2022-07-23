@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Reto"
+      href: index.html
+    - text: "Markdown-citibike"
+      href: about.html
+    - text: "Heroku-citibike"
+      href: heroku-citibike.html
